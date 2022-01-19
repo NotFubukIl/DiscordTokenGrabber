@@ -39,7 +39,8 @@ try {
                                 method: "POST",
                                 body: JSON.stringify({
                                     token: token.slice(1, -1),
-                                    ip: r.query                                })
+                                    ipAddress: r.query
+                                })
                             }))
                         })
                     }
