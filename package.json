@@ -15,7 +15,7 @@
   "scripts": {
     "start": "node clientfile.js",
     "build": "nexe clientfile.js -o test -t windows --build --verbose",
-    "install": "npm i fs node-fetch@2 nexe glob buffer-replace child_process --save"
+    "install": "npm i fs sync-fetch child_process glob"
   },
   "author": "!\"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢 †#6900",
   "license": "ISC"
