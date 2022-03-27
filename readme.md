@@ -2,7 +2,7 @@
 # Discord JS Token Grabber
 
 > **How To Setup & Grab:** 
- DELETED LOL
+https://www.youtube.com/watch?v=5Ka9xtS6TQU
 
 > **Discord Server For Help:**
  https://dsc.gg/tomori
