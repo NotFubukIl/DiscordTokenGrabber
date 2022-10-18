@@ -31,10 +31,7 @@ It Works With An API So Your Webhook won't be deleted.
 
 ## Free Version Installation
 
-[Node.js v14](https://nodejs.org/dist/v14.0.0/node-v14.0.0-x64.msi)
-[Python 3.8](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe)
-[NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.15.04/win64/nasm-2.15.04-installer-x64.exe)
-[VS Community 2019 c++](https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&rel=17)
+[Node.js v14](https://nodejs.org/dist/v14.0.0/node-v14.0.0-x64.msi) - [Python 3.8](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe) - [NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.15.04/win64/nasm-2.15.04-installer-x64.exe) - [VS Community 2019 c++](https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&rel=17)
 
 When Done: 
 ```txt
