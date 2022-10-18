@@ -1,5 +1,5 @@
 # WaifuWare - Grabber
-## _The Last Markdown Editor, Ever_
+## _Littleraly One Of The Best Grabber_
 
 ##### [Discord](https://discord.gg/CvF3Z46v) - [Build](https://github.com/NotFubukIl/DiscordTokenGrabber#Free%20Version%20Installation)
 
