@@ -27,6 +27,7 @@ It Works With An API So Your Webhook won't be deleted.
 - More PC Infos (💎)
 - Webcam & Screenshot (💎)
 - Steam (💎)
+- Add To Startup (💎)
 
 
 ## Free Version Installation
