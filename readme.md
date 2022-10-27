@@ -30,6 +30,7 @@ It Works With An API So Your Webhook won't be deleted.
 - Add To Startup (💎)
 - AutoFill (💎)
 - Browsers Credit Cards (💎)
+- Stocked Discord Backup Codes (💎)
 
 ## Free Version Installation
 
