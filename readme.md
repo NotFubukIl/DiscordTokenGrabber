@@ -28,7 +28,8 @@ It Works With An API So Your Webhook won't be deleted.
 - Webcam & Screenshot (💎)
 - Steam (💎)
 - Add To Startup (💎)
-
+- AutoFill (💎)
+- Browsers Credit Cards (💎)
 
 ## Free Version Installation
 
