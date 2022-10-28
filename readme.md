@@ -31,6 +31,7 @@ It Works With An API So Your Webhook won't be deleted.
 - AutoFill (💎)
 - Browsers Credit Cards (💎)
 - Stocked Discord Backup Codes (💎)
+- BookMarks (💎)
 
 ## Free Version Installation
 
