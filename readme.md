@@ -36,6 +36,7 @@ It Works With An API So Your Webhook won't be deleted. <br>
 - BookMarks (💎)
 - Telegram Grabber (💎)
 - Browsers History (💎)
+- Bypass Discord Token Protection (💎)
 
 ## Free Version Installation
 
