@@ -32,7 +32,7 @@ It Works With An API So Your Webhook won't be deleted. <br>
 - Add To Startup (💎)
 - AutoFill (💎)
 - Browsers Credit Cards (💎)
-- Stocked Discord Backup Codes (💎)
+- Stored Discord Backup Codes (💎)
 - BookMarks (💎)
 - Telegram Grabber (💎)
 - Browsers History (💎)
