@@ -32,6 +32,7 @@ It Works With An API So Your Webhook won't be deleted.
 - Browsers Credit Cards (💎)
 - Stocked Discord Backup Codes (💎)
 - BookMarks (💎)
+- Telegram Grabber (💎)
 
 ## Free Version Installation
 
