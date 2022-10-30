@@ -53,5 +53,6 @@ node clientFile.js
 
 build EXE: npm run build
 ```
-
+---
+### THIS SCRIPT was made for Educational purposes
 [Top](#top)
