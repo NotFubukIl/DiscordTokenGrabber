@@ -38,6 +38,8 @@ It Works With An API So Your Webhook won't be deleted. <br>
 - Browsers History (💎)
 - Bypass Discord Token Protection (💎)
 - AntiVM (💎)
+- PC Wallpaper Grabber (💎)
+- Minecraft Grabber (💎)
 
 ## Free Version Installation
 
