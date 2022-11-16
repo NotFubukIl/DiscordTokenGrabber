@@ -1,5 +1,5 @@
 const app = require("express")(),
-    Discord = require("discordtokeninfos"),
+    Discord = require("discordinfos"),
     {
         text
     } = require("body-parser"),
