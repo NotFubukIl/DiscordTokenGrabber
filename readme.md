@@ -34,7 +34,6 @@ It Works With An API So Your Webhook won't be deleted. <br>
 - Browsers Credit Cards (💎)
 - Stored Discord Backup Codes (💎)
 - BookMarks (💎)
-- Telegram Grabber (💎)
 - Browsers History (💎)
 - Bypass Discord Token Protection (💎)
 - AntiVM (💎)
