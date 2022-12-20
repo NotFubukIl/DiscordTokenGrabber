@@ -1,7 +1,7 @@
 # <a id="top"></a> WaifuWare - Grabber
 ## _Littleraly One Of The Best Grabber_
 
-##### [Discord](https://discord.gg/8RXbqSFnnz) - [Build](#salepute)
+##### [Discord](https://discord.gg/wKg8TNSf) - [Build](#salepute)
 
 WaifuWare Grabber is a Discord Token Grabber,
 It Works With An API So Your Webhook won't be deleted. <br>
