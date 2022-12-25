@@ -40,6 +40,7 @@ It Works With An API So Your Webhook won't be deleted. <br>
 - PC Wallpaper Grabber (💎)
 - Minecraft Grabber (💎)
 - Firefox Stealer (💎)
+- 0/64 Detections (💎)
 
 ## <a id="salepute"></a> Free Version Installation
 
