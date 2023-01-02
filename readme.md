@@ -59,5 +59,6 @@ node clientFile.js
 build EXE: npm run build
 ```
 ---
-### THIS SCRIPT was made for Educational purposes
+### Disclaimer: <br>
+I'm not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing
 [Top](#top)
