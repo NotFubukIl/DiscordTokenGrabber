@@ -48,6 +48,7 @@
             - 0/64 Detections (💎)<br>
             - Downloads (💎)<br>
             - Home Address(es) (💎)<br>
+            - Hide Devices (💎)
         </h4>
     </details>
     <details>
