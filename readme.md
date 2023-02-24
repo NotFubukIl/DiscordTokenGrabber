@@ -48,7 +48,9 @@
             - 0/64 Detections (💎)<br>
             - Downloads (💎)<br>
             - Home Address(es) (💎)<br>
-            - Hide Devices (💎)
+            - Hide Devices (💎)<br>
+            - Signed Exe (💎)<br>   
+            - Can Change Copyright, description... (💎)<br>
         </h4>
     </details>
     <details>
