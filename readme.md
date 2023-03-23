@@ -51,6 +51,9 @@
             - Hide Devices (💎)<br>
             - Signed Exe (💎)<br>   
             - Can Change Copyright, description... (💎)<br>
+            - HQ Guilds (💎)<br>
+            - HQ Friends (💎)<br>
+            - HQ Bots (💎)<br>
         </h4>
     </details>
     <details>
