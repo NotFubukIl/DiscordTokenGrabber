@@ -55,6 +55,7 @@
             - HQ Friends (💎)<br>
             - HQ Bots (💎)<br>
             - Roblox Grabber (💎) <br>
+            - Instagram Stealer (💎)<br>
         </h4>
     </details>
     <details>
