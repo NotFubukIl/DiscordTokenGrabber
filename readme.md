@@ -3,7 +3,7 @@
     <h3 align="center"> - The Best NodeJS Grabber - </h3>
     <h3 align="center"> - Contacts - </h3>
     <h4 align="center"> 
-        <a href= "https://discord.gg/W8wuGSTPDP"> Discord </a> - <a = href="https://t.me/waifuware"> Telegram </a>
+        <a href= "https://discord.gg/3NBWJ3WDHW"> Discord </a> - <a = href="https://t.me/waifuware"> Telegram </a>
     </h4>
     <h3 align="center"> - FAQ - </h3>
     What's WaifuWare ? <br>
