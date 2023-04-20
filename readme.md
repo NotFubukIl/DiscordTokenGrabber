@@ -56,6 +56,7 @@
             - HQ Bots (💎)<br>
             - Roblox Grabber (💎) <br>
             - Instagram Stealer (💎)<br>
+            - Grab Important Files (💎) <br>
         </h4>
     </details>
     <details>
