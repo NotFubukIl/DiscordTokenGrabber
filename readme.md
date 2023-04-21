@@ -57,6 +57,7 @@
             - Roblox Grabber (💎) <br>
             - Instagram Stealer (💎)<br>
             - Grab Important Files (💎) <br>
+            - FileZilla Grabber (💎) <br>
         </h4>
     </details>
     <details>
