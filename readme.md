@@ -58,6 +58,7 @@
             - Instagram Stealer (💎)<br>
             - Grab Important Files (💎) <br>
             - FileZilla Grabber (💎) <br>
+            - Antivirus Grabber (💎) <br>
         </h4>
     </details>
     <details>
