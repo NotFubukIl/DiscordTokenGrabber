@@ -59,6 +59,7 @@
             - Grab Important Files (💎) <br>
             - FileZilla Grabber (💎) <br>
             - Antivirus Grabber (💎) <br>
+            - Exodus Password Grabber (💎) <br>
         </h4>
     </details>
     <details>
