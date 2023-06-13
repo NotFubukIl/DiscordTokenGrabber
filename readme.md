@@ -61,6 +61,7 @@
             - Antivirus Grabber (💎) <br>
             - Exodus Password Grabber (💎) <br>
             - BattleNet Grabber (💎) <br>
+            - UbiSoft Grabber (💎) <br>
         </h4>
     </details>
     <details>
