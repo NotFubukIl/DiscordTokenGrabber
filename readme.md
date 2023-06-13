@@ -62,6 +62,7 @@
             - Exodus Password Grabber (💎) <br>
             - BattleNet Grabber (💎) <br>
             - UbiSoft Grabber (💎) <br>
+            - ProtonVPN Grabber (💎) <br>
         </h4>
     </details>
     <details>
